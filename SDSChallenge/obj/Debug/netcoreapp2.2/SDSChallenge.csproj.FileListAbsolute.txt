@@ -1,0 +1,11 @@
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp2.2\SDSChallenge.csprojAssemblyReference.cache
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp2.2\SDSChallenge.csproj.CoreCompileInputs.cache
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp2.2\SDSChallenge.AssemblyInfoInputs.cache
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp2.2\SDSChallenge.AssemblyInfo.cs
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp2.2\SDSChallenge.deps.json
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp2.2\SDSChallenge.runtimeconfig.json
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp2.2\SDSChallenge.runtimeconfig.dev.json
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp2.2\SDSChallenge.dll
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp2.2\SDSChallenge.pdb
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp2.2\SDSChallenge.dll
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp2.2\SDSChallenge.pdb

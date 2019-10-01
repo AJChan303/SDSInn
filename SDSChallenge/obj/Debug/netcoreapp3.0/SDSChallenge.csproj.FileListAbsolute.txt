@@ -1,0 +1,11 @@
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp3.0\SDSChallenge.exe
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp3.0\SDSChallenge.deps.json
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp3.0\SDSChallenge.runtimeconfig.json
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp3.0\SDSChallenge.runtimeconfig.dev.json
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp3.0\SDSChallenge.dll
+C:\repos\SDSChallenge\SDSChallenge\bin\Debug\netcoreapp3.0\SDSChallenge.pdb
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp3.0\SDSChallenge.csprojAssemblyReference.cache
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp3.0\SDSChallenge.AssemblyInfoInputs.cache
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp3.0\SDSChallenge.AssemblyInfo.cs
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp3.0\SDSChallenge.dll
+C:\repos\SDSChallenge\SDSChallenge\obj\Debug\netcoreapp3.0\SDSChallenge.pdb
